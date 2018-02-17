@@ -1,0 +1,9 @@
+{
+  "name": "concrete5-js.assets",
+  "version": "0.0.1",
+  "description": "concrete5 JavaScript assets",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jquery": "^3.3.0"
+  }
+}
