@@ -1,4 +1,4 @@
-import $ from 'jquery';
+import * as $ from 'jquery';
 
 (<any>window).ccm_enableUserProfileMenu = function() {
     let account = $('#ccm-account-menu');
